@@ -1,0 +1,49 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Sadhanga",
+      "genre": ["Action , Comedy  , Romance"],
+      "duration": "2hrs 20min",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos repellendus consequatur fuga libero sit maxime doloremque quasi voluptate!",
+      "image": "./Images/sadhanga.jpeg",
+      "language": "Nepali"
+    },
+    {
+      "id": 2,
+      "title": "Deadpool and Wolverine",
+      "genre": ["Action , Comedy  , Superhero , Science Fiction"],
+      "duration": "2hrs 7min",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos repellendus consequatur fuga libero sit maxime doloremque quasi voluptate!",
+      "image": "./Images/deadpool&wolverine.jpg",
+      "language": "English"
+    },
+    {
+      "id": 3,
+      "title": "Vikram",
+      "genre": ["Action , Action Thriller , Adventure"],
+      "duration": "2hrs 54min",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos repellendus consequatur fuga libero sit maxime doloremque quasi voluptate!",
+      "image": "./Images/vikram.jpg",
+      "language": "Hindi"
+    },
+    {
+      "id": 4,
+      "title": "Vikram 1 ",
+      "genre": ["Action , Action Thriller , Adventure"],
+      "duration": "2hrs 54min",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos repellendus consequatur fuga libero sit maxime doloremque quasi voluptate! Non dolor veniam culpa temporibus? Animi illo praesentium ex officia, quaerat vel.",
+      "image": "./Images/vikram.jpg",
+      "language": "Hindi"
+    },
+    {
+      "id": 5,
+      "title": "Vikram 2 ",
+      "genre": ["Action , Action Thriller , Adventure"],
+      "duration": "2hrs 54min",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos repellendus consequatur fuga libero sit maxime doloremque quasi voluptate! Non dolor veniam culpa temporibus? Animi illo praesentium ex officia, quaerat vel.",
+      "image": "./Images/vikram.jpg",
+      "language": "Hindi"
+    }
+  ]
+}

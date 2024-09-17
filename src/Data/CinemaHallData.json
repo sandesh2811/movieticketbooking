@@ -1,0 +1,919 @@
+{
+  "cinemaHalls": [
+    {
+      "name": "QFX",
+      "image": "./Images/QFX.png",
+      "city": "Butwal",
+      "address": "Butwal, Bhatbhateni",
+      "showDetails": [
+        {
+          "title": "Sadhanga",
+          "image": "./Images/sadhanga.jpeg",
+          "isShowing": "true",
+          "showTime": [
+            {
+              "type": "morning",
+              "time": "7:30am",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 250"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 400"
+                }
+              ]
+            },
+            {
+              "type": "afternoon",
+              "time": "12:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            },
+            {
+              "type": "evening",
+              "time": "8:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Vikram",
+          "isShowing": "false",
+          "image": "./Images/vikram.jpg",
+          "showTime": [
+            {
+              "type": "morning",
+              "time": "7:30am",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 250"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 400"
+                }
+              ]
+            },
+            {
+              "type": "afternoon",
+              "time": "12:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            },
+            {
+              "type": "evening",
+              "time": "8:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Deadpool And Wolverine",
+          "isShowing": "true",
+          "image": "./Images/deadpool&wolverine.jpg",
+          "showTime": [
+            {
+              "type": "morning",
+              "time": "7:30am",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 250"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 400"
+                }
+              ]
+            },
+            {
+              "type": "afternoon",
+              "time": "12:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            },
+            {
+              "type": "evening",
+              "time": "8:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "QFX",
+      "image": "./Images/QFX.png",
+      "city": "Lalitpur",
+      "address": "Lalitpur, LabimMall",
+      "showDetails": [
+        {
+          "title": "Sadhanga",
+
+          "showTime": [
+            {
+              "type": "morning",
+              "time": "7:30am",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 250"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 400"
+                }
+              ]
+            },
+            {
+              "type": "afternoon",
+              "time": "12:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            },
+            {
+              "type": "evening",
+              "time": "8:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Vikram",
+
+          "showTime": [
+            {
+              "type": "morning",
+              "time": "7:30am",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 250"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 400"
+                }
+              ]
+            },
+            {
+              "type": "afternoon",
+              "time": "12:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            },
+            {
+              "type": "evening",
+              "time": "8:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Deadpool And Wolverine",
+
+          "showTime": [
+            {
+              "type": "morning",
+              "time": "7:30am",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 250"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 400"
+                }
+              ]
+            },
+            {
+              "type": "afternoon",
+              "time": "12:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            },
+            {
+              "type": "evening",
+              "time": "8:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "QFX",
+      "image": "./Images/QFX.png",
+      "city": "Kathmandu",
+      "address": "Kathmandu, CityCentre ",
+      "showDetails": [
+        {
+          "title": "Sadhanga",
+
+          "showTime": [
+            {
+              "type": "morning",
+              "time": "7:30am",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 250"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 400"
+                }
+              ]
+            },
+            {
+              "type": "afternoon",
+              "time": "12:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            },
+            {
+              "type": "evening",
+              "time": "8:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Vikram",
+
+          "showTime": [
+            {
+              "type": "morning",
+              "time": "7:30am",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 250"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 400"
+                }
+              ]
+            },
+            {
+              "type": "afternoon",
+              "time": "12:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            },
+            {
+              "type": "evening",
+              "time": "8:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Deadpool And Wolverine",
+
+          "showTime": [
+            {
+              "type": "morning",
+              "time": "7:30am",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 250"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 400"
+                }
+              ]
+            },
+            {
+              "type": "afternoon",
+              "time": "12:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            },
+            {
+              "type": "evening",
+              "time": "8:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "View Cinemas",
+      "image": "./Images/viewCinema.jpg",
+      "city": "Butwal",
+      "address": "Butwal, Singh Complex",
+      "showDetails": [
+        {
+          "title": "Sadhanga",
+
+          "showTime": [
+            {
+              "type": "morning",
+              "time": "7:30am",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 250"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 400"
+                }
+              ]
+            },
+            {
+              "type": "afternoon",
+              "time": "12:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            },
+            {
+              "type": "evening",
+              "time": "8:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Vikram",
+
+          "showTime": [
+            {
+              "type": "morning",
+              "time": "7:30am",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 250"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 400"
+                }
+              ]
+            },
+            {
+              "type": "afternoon",
+              "time": "12:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            },
+            {
+              "type": "evening",
+              "time": "8:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Deadpool And Wolverine",
+
+          "showTime": [
+            {
+              "type": "morning",
+              "time": "7:30am",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 250"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 400"
+                }
+              ]
+            },
+            {
+              "type": "afternoon",
+              "time": "12:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            },
+            {
+              "type": "evening",
+              "time": "8:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "View Cinemas",
+      "image": "./Images/viewCinema.jpg",
+      "city": "Kathmandu",
+      "address": "Kathmandu, CivilMall",
+      "showDetails": [
+        {
+          "title": "Sadhanga",
+
+          "showTime": [
+            {
+              "type": "morning",
+              "time": "7:30am",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 250"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 400"
+                }
+              ]
+            },
+            {
+              "type": "afternoon",
+              "time": "12:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            },
+            {
+              "type": "evening",
+              "time": "8:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Vikram",
+
+          "showTime": [
+            {
+              "type": "morning",
+              "time": "7:30am",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 250"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 400"
+                }
+              ]
+            },
+            {
+              "type": "afternoon",
+              "time": "12:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            },
+            {
+              "type": "evening",
+              "time": "8:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Deadpool And Wolverine",
+
+          "showTime": [
+            {
+              "type": "morning",
+              "time": "7:30am",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 250"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 400"
+                }
+              ]
+            },
+            {
+              "type": "afternoon",
+              "time": "12:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            },
+            {
+              "type": "evening",
+              "time": "8:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "QFX",
+      "image": "./Images/QFX.png",
+      "city": "Pokhara",
+      "address": "Pokhara, Bhatbhateni",
+      "showDetails": [
+        {
+          "title": "Sadhanga",
+
+          "showTime": [
+            {
+              "type": "morning",
+              "time": "7:30am",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 250"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 400"
+                }
+              ]
+            },
+            {
+              "type": "afternoon",
+              "time": "12:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            },
+            {
+              "type": "evening",
+              "time": "8:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Vikram",
+
+          "showTime": [
+            {
+              "type": "morning",
+              "time": "7:30am",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 250"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 400"
+                }
+              ]
+            },
+            {
+              "type": "afternoon",
+              "time": "12:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            },
+            {
+              "type": "evening",
+              "time": "8:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Deadpool And Wolverine",
+
+          "showTime": [
+            {
+              "type": "morning",
+              "time": "7:30am",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 250"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 400"
+                }
+              ]
+            },
+            {
+              "type": "afternoon",
+              "time": "12:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            },
+            {
+              "type": "evening",
+              "time": "8:30pm",
+              "price": [
+                {
+                  "seatType": "normal",
+                  "price": "Rs 350"
+                },
+                {
+                  "seatType": "platinum",
+                  "price": "Rs 500"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
