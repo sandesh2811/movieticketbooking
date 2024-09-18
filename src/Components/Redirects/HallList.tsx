@@ -1,8 +1,8 @@
 import { ChangeEvent, useState } from "react";
-import { RootState } from "../Redux/Store/TicketStore";
+import { RootState } from "../../Redux/Store/TicketStore";
 import { useDispatch, useSelector } from "react-redux";
 import MovieTimeModal from "./MovieTimeModal";
-import { updateSelectedHall } from "../Redux/Slices/SelectedHallSlice";
+import { updateSelectedHall } from "../../Redux/Slices/SelectedHallSlice";
 
 const HallList = () => {
   const { cinemaHall } = useSelector(

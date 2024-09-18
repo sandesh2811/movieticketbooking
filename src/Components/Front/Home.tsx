@@ -1,7 +1,7 @@
 import Footer from "./Footer";
 import HeroSection from "./HeroSection";
 import Navbar from "./Navbar";
-import NowShowing from "./NowShowing";
+import NowShowing from "../Front/NowShowing";
 import Services from "./Services";
 
 const Home = () => {

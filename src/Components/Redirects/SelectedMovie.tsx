@@ -1,7 +1,7 @@
 import { useSelector } from "react-redux";
-import { RootState } from "../Redux/Store/TicketStore";
+import { RootState } from "../../Redux/Store/TicketStore";
 import HallList from "./HallList";
-import Navbar from "./Navbar";
+import Navbar from "../Front/Navbar";
 
 const SelectedMovie = () => {
   const { selectedMovie } = useSelector(

@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { RootState } from "../Redux/Store/TicketStore";
-import { updateSelectedShowTime } from "../Redux/Slices/SelectedShowTime";
+import { RootState } from "../../Redux/Store/TicketStore";
+import { updateSelectedShowTime } from "../../Redux/Slices/SelectedShowTime";
 import { Link } from "react-router-dom";
 
 const MovieTimeModal = () => {

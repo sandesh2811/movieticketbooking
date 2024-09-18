@@ -1,8 +1,8 @@
 import { useDispatch, useSelector } from "react-redux";
 
-import { AppDispatch, RootState } from "../Redux/Store/TicketStore";
+import { AppDispatch, RootState } from "../../Redux/Store/TicketStore";
 import { useState } from "react";
-import { updateSelectedMovie } from "../Redux/Slices/SelectedMovieSlice";
+import { updateSelectedMovie } from "../../Redux/Slices/SelectedMovieSlice";
 import { Link } from "react-router-dom";
 
 const MovieCard = () => {
